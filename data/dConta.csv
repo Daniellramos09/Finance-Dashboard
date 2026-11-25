@@ -1,0 +1,4 @@
+ID_Conta;Nome_Conta;Banco;Tipo_Conta
+101;Conta Corrente Principal;Itaú;Corrente
+102;Conta Internacional USD;Avenue;Investimentos
+103;Caixa Operacional;Bradesco;Pagamentos

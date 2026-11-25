@@ -1,0 +1,7 @@
+ID_Categoria;Nome_Categoria;Classificacao;Setor_Responsavel
+1;Venda de Licenças SaaS;Receita Operacional;Comercial
+2;Consultoria e Treinamento;Receita de Serviços;Operações
+3;Servidores & Cloud (AWS/OCI);Custo de Operação (COGS);TI / DevOps
+4;Folha de Pagamento & Benefícios;Despesa Operacional (OPEX);RH
+5;Campanhas de Google Ads e Redes;Despesa de Marketing;Marketing
+6;Softwares Administrativos;Despesa Administrativa;Financeiro
